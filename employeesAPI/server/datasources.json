@@ -1,0 +1,15 @@
+{
+  "cleardb": {
+    "host": "us-cdbr-iron-east-03.cleardb.net",
+    "url": "",
+    "database": "ad_044d8542a3178ed",
+    "password": "1c44f16c",
+    "name": "cleardb",
+    "user": "bc858bd9bf9370",
+    "connector": "mysql"
+  },
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  }
+}
